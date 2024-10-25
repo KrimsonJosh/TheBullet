@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "platformio.pythonPath": "/usr/bin/python3"
+  }
+  
